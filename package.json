@@ -1,0 +1,29 @@
+{
+  "name": "mdi-version-merge-tool",
+  "version": "0.0.1",
+  "description": "Merge all release version of MDI icon",
+  "main": "index.js",
+  "dependencies": {
+    "css-parser": "^0.0.6",
+    "webfont": "^11.2.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duthienkt/mdi-version-merge-tool.git"
+  },
+  "keywords": [
+    "mdi",
+    "merge",
+    "version"
+  ],
+  "author": "Pham Quoc Du Thien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duthienkt/mdi-version-merge-tool/issues"
+  },
+  "homepage": "https://github.com/duthienkt/mdi-version-merge-tool#readme"
+}
