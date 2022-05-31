@@ -1,0 +1,4 @@
+/output/
+/svg/*.svg
+/repo/*/
+/node_modules/
