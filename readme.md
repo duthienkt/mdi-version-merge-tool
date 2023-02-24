@@ -12,7 +12,7 @@ npm i
 
 Download and unzip build version to repo folder
 
-Download svg files from (Material Design Icons)[https://materialdesignicons.com/] and put theme into svg folder
+Download svg files from (Material Design Icons)[https://materialdesignicons.com/] and put theme into svg folder(not recomend)
 
 ```bash
 npm run build
